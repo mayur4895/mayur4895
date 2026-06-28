@@ -118,17 +118,6 @@ const mayur: Developer = {
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayur4895&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
-</div>
-
----
 
 ### 🐍 My Contributions — Watch the Snake Eat Them!
 
@@ -141,18 +130,6 @@ const mayur: Developer = {
 </picture>
 
 </div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayur4895&bg_color=0D1117&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true&area_color=a855f720"/>
-
-</div>
-
----
 
 <div align="center">
 
