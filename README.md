@@ -1,81 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20I'm%20Mayur%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20.NET&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=200&section=header&text=Mayur%20Shinde&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20.NET&descAlignY=58&descSize=20&descColor=e9d5ff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+web+apps+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+.NET;TypeScript+enthusiast+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mayur+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+.NET;Building+scalable+web+apps+%E2%9C%A8;Turning+ideas+into+reality+%F0%9F%92%A1;Always+learning%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://portfolio-mayurs-projects-22cf10fc.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/webdevelopermayur4895/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurshinde4895@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=a78bfa&style=flat" alt="Profile Views" />
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-mayurs-projects-22cf10fc.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webdevelopermayur4895/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayur4895)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mayur4895)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurshinde4895@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=mayur4895&label=👁️%20Profile%20Views&color=a855f7&style=flat-square&labelColor=1a1a2e" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🧑‍💻 About Me
 
 ```typescript
-const mayur = {
+const mayur: Developer = {
+  name: "Mayur Shinde",
   role: "Full-Stack Developer",
   company: "Aloha Technology Pvt. Ltd.",
   location: "Pune, India 🇮🇳",
-  education: "MSc Computer Application",
-  achievement: "🥇 First Rank | CGPA 8.65",
-  stack: ["React", "Next.js", "Node.js", ".NET", "TypeScript"],
-  currentlyLearning: ["System Design", "DSA", "Advanced TypeScript"],
-  funFact: "I turn ☕ into scalable web apps"
+  education: {
+    degree: "MSc Computer Application",
+    college: "Modern College, Pune",
+    status: "Pursuing 📚"
+  },
+  achievement: "🥇 First Rank | BSc CS | CGPA 8.65",
+  stack: {
+    frontend: ["React", "Next.js", "Angular", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Express", ".NET", "REST APIs"],
+    database: ["MongoDB", "Prisma ORM", "SQL"],
+    tools: ["Git", "Stripe", "Cloudinary", "Twilio", "JWT"]
+  },
+  currentFocus: ["System Design", "DSA", "Advanced TypeScript"],
+  funFact: "I turn ☕ into scalable web apps!"
 };
 ```
 
-- 🔭 Currently working on **production-grade full-stack apps**
-- 🌱 Leveling up in **System Design & DSA**
-- ⚡ Improved app performance by **30%** and cut release cycles by **20%**
+- 🔥 Improved app performance by **30%** at Aloha Technology
+- ⚡ Cut CI/CD release cycles by **20%**
 - 💬 Ask me about **React, Next.js, Node.js, Prisma, or .NET**
+- 🎯 Open to exciting **full-stack opportunities**
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Database & ORM**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Services**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,tailwind,redux&perline=7&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mongodb,prisma,mysql&perline=7&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,html,css,vscode&perline=7&theme=dark" />
 
 </div>
 
@@ -85,17 +80,26 @@ const mayur = {
 
 <div align="center">
 
-| 🏠 Airbnb Clone | 🛒 eCommerce + Admin |
-|:---:|:---:|
-| Next.js · Prisma · MongoDB · NextAuth · Redux | Next.js · Stripe · Clerk · Strapi · TypeScript |
-| Property listing, booking & auth platform | Full store with admin panel & payments |
-| [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github)](YOUR_REPO_URL) | [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github)](YOUR_REPO_URL) |
+<a href="https://live-reservation.vercel.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayur4895&repo=Live&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899"/>
+</a>
+<a href="https://github.com/mayur4895/Spotify-Clone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mayur4895&repo=Spotify-Clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899"/>
+</a>
 
-| 🎓 Internship Portal | ✅ Task Tracker |
-|:---:|:---:|
-| Next.js · Twilio · Resend · Auth.js · Redux | Next.js · Clerk · Redux · TypeScript · Shadcn |
-| College portal with phone & email verification | Real-time tasks with CRUD, filters & auth |
-| [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github)](YOUR_REPO_URL) | [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github)](YOUR_REPO_URL) |
+</div>
+
+<br/>
+
+<div align="center">
+
+| Project | Tech | Links |
+|:--------|:-----|:-----:|
+| 🏠 **Airbnb Clone** | Next.js · Prisma · Cloudinary · NextAuth · Redux | [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel)](https://live-reservation.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mayur4895/Live) |
+| 🎵 **Spotify Clone** | React · RapidAPI · Tailwind · Redux | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mayur4895/Spotify-Clone) |
+| 💬 **Discord Clone** | Next.js · Socket.io · Prisma · Shadcn · Redux | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mayur4895/Spotify-Clone) |
+| 🛒 **eCommerce + Admin** | Next.js · Stripe · Clerk · Strapi · Prisma | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mayur4895/) |
+| 🎓 **Internship Portal** | Next.js · Twilio · Resend · Auth.js · Redux | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/mayur4895/) |
 
 </div>
 
@@ -105,10 +109,12 @@ const mayur = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mayur4895&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur4895&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=ffffff&langs_count=8" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="600"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur4895&theme=tokyonight&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888" width="600"/>
 
 </div>
 
@@ -118,9 +124,42 @@ const mayur = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mayur4895&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 
 </div>
 
 ---
 
+### 🐍 My Contributions — Watch the Snake Eat Them!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayur4895/mayur4895/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayur4895/mayur4895/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mayur4895/mayur4895/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayur4895&bg_color=0D1117&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true&area_color=a855f720"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Let's build something great together!
+
+*"First solve the problem. Then write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:7c3aed&height=120&section=footer"/>
+
+</div>
